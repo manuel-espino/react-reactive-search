@@ -1,0 +1,29 @@
+{
+  "name": "NextBase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "classnames": "^2.2.6",
+    "next": "^9.1.2",
+    "node-sass": "^4.13.0",
+    "primeicons": "^2.0.0",
+    "primereact": "^3.3.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-transition-group": "^2.5.1"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "ts-loader": "^6.2.1"
+  }
+}

@@ -1,0 +1,25 @@
+.buscador {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.resultados {
+   width: 640px;
+   border: 1px solid blue;
+   margin-top: 10;
+}
+
+.resultados__lista {
+   list-style: none;
+   max-height: 320;
+   overflow-Y: scroll;
+   padding: 0;
+}
+
+.resultados__link {
+   display: flex;
+   text-decoration: none;
+}
+
+.resultados__img {
+   width: 80px;
+}
